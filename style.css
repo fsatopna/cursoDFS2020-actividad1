@@ -1,0 +1,19 @@
+table, th, td {
+    border: 2px solid black;
+    border-collapse: collapse;
+    }
+    
+    th, td {
+        padding: 10px;
+        color: maroon;
+    }
+    
+    th {
+        text-align: left;
+        background-color: moccasin;
+    }
+    
+    table#tabla{
+        width: 50%  ;
+        background-color: cornsilk;
+    }
